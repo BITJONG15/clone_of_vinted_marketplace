@@ -1,0 +1,5 @@
+{
+  "name": "Vinted Clone",
+  "description": "A mobile marketplace application similar to Vinted, featuring product listings, chat, favorites, and wallet transactions.",
+  "requestFramePermissions": []
+}
